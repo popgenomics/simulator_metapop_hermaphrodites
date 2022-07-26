@@ -1,4 +1,3 @@
-- [simulator_metapop_hermaphrodites](#simulator-metapop-hermaphrodites)
 - [Compilation](#compilation)
   * [Personal computer](#personal-computer)
   * [Shared cluster](#shared-cluster)
